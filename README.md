@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on myself;
-- 🌱 I’m currently learning C/C++;
+- 🌱 I’m currently learning C/C++ and Rust;
 - 👯 I’m looking to collaborate on computer science;
 - 🤔 I’m looking for help with my C projects O_o;
 - 💬 Ask me about anything;
