@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: she/her;
 - ⚡ Fun fact: I play league, somethimes;
 -->
+
+
+<p>
+  <img src="assets/hudf-ascii.png" width="350">
+  <img src="assets/black-hole-vortex.gif" width="350">
+</p>
