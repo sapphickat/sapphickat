@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 <p>
  <!-- <img src="assets/hudf-ascii.png" width="350"> -->
-  <img src="assets/black-hole-vortex.gif" width="350">
+<!--  <img src="assets/black-hole-vortex.gif" width="350"> -->
 </p>
